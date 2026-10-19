@@ -1,0 +1,342 @@
+
+
+### Category 1: RF, SDR & Wireless Exploitation / Defense (1 – 30)
+1. **HackRF One** (1 MHz to 6 GHz Half-Duplex SDR)
+2. **PortaPack H2+** (HackRF Standalone Handheld Expansion with Mayhem Firmware)
+3. **RTL-SDR Blog V4** (Wideband Software Defined Radio Receiver with Bias-Tee)
+4. **BladeRF 2.0 micro xA4** (High-Precision 2x2 MIMO Transceiver SDR)
+5. **USRP B210** (Bus-Powered 2-Channel Full-Duplex SDR)
+6. **Yard Stick One** (Sub-1GHz Wireless Transceiver USB Dongle)
+7. **Flipper Zero** (Multi-tool Device for Geeks & Hardware Pentesters)
+8. **Wi-Fi Deauther Watch V4** (ESP8266-based Wearable 802.11 Analysis Tool)
+9. **Wi-Fi Deauther V3 OLED** (Pocket-Sized Deauthentication Pentest Board)
+10. **ESP32 Marauder** (Wi-Fi/Bluetooth Offensive & Diagnostic Handheld Tool)
+11. **WiFi Pineapple Mark VII** (Enterprise Rogue Access Point & Auditing Tool)
+12. **WiFi Pineapple Enterprise** (Rackmount Wi-Fi Reconnaissance Appliance)
+13. **Ubertooth One** (2.4 GHz Bluetooth Sniffer & Monitoring Platform)
+14. **Crazyradio PA** (2.4 GHz nRF24LU1+ Long Range USB Dongle for MouseJack)
+15. **LimeSDR Mini 2.0** (FPGA-driven Flexible RF Transceiver)
+16. **Airspy HF+ Discovery** (High-Dynamic Range HF/VHF SDR Receiver)
+17. **Adalm-Pluto (AD9363)** (Active Learning Module Full-Duplex SDR)
+18. **CC1101 433MHz / 868MHz Transceiver Module** (External SMA Antenna Edition)
+19. **Heltec LoRa V3 ESP32 SX1262** (Sub-GHz Long-Range Mesh Pentest Board)
+20. **GPS Spoofing & Jammer Detector Board** (Physical GPS Shield Sentinel)
+21. **ALFA Network AWUS036ACM** (802.11ac Monitor Mode / Packet Injection USB Adapter)
+22. **ALFA Network AWUS036ACH** (Dual-Band High-Gain Long-Range Wi-Fi Adapter)
+23. **Panda Wireless PAU09 N600** (Dual Band Plug-and-Play Linux Pentest Adapter)
+24. **Hak5 Signal Owl** (Signals Intelligence Reconnaissance Mini Payload)
+25. **ANT500 Telescopic Antenna** (75 MHz to 1 GHz Tunable SMA Antenna)
+26. **Log-Periodic Directional Antenna** (800 MHz – 6 GHz Wideband Antenna)
+27. **Yagi-Uda 2.4 GHz High-Gain Directional Grid Antenna**
+28. **Nooelec Lana Ultra Low-Noise Amplifier (LNA)** (Wideband RF Pre-Amplifier)
+29. **SAW RF Bandpass Filter 433.92 MHz** (Inline SMA Interference Reducer)
+30. **Bias-Tee 50V 10MHz – 6GHz RF Power Injector Module**
+
+---
+
+### Category 2: HID Attacks, Keystroke Injection & BadUSB (31 – 60)
+31. **USB Rubber Ducky** (Hak5 Keystroke Injection Multi-Payload Tool)
+32. **MalDuino W** (Wireless BadUSB with Web Interface & ESP8266)
+33. **DigiSpark ATtiny85 BadUSB** (Miniature Microcontroller Injector)
+34. **O.MG Cable Elite (Type-C to Lightning)** (Covert Keylogger with Wi-Fi C2)
+35. **O.MG Cable Keylogger Edition (USB-A to Type-C)**
+36. **O.MG Adapter** (Concealed In-Line Malicious USB Passthrough Device)
+37. **O.MG UnBlocker** (Data Blocker Shell with Embedded Malicious Payload)
+38. **Raspberry Pi Pico HID Injector** (CircuitPython BadUSB Payload Runner)
+39. **Cactus WHID** (Wi-Fi HID Injector based on ATmega32U4 + ESP8266)
+40. **USB Armory Mk II** (Flash-Drive Sized Computer with Hardware Cryptography)
+41. **Bash Bunny Mark II** (Hak5 Multi-Vector USB Pentest & Exfiltration Platform)
+42. **USBNinja Pro Cable** (Bluetooth-Triggered Stealth BadUSB Attack Cable)
+43. **USBNinja Remote Control Transmitter** (Pocket Trigger for USBNinja)
+44. **Arduino Pro Micro 5V (ATmega32U4)** (Raw Programmable HID Board)
+45. **SparkFun Pro Micro USB-C HID Development Board**
+46. **Teensy 4.0** (High-Performance 600 MHz USB HID Controller)
+47. **Teensy 4.1** (High-Speed USB Development Board with Ethernet Footprint)
+48. **Evil Crow Cable** (RF-Controlled Wireless HID Injection Cable)
+49. **Evil Crow RF V2** (Dual-Band RF Transceiver + HID Attack Station)
+50. **AirDrive Forensic Keylogger USB** (Internal 16MB Hardware Flash Logger)
+51. **AirDrive Wi-Fi Keylogger Module** (Wireless Remote Keystroke Streaming)
+52. **KeyGrabber Pico USB Hardware Keylogger** (Ultra-Miniature Keystroke Sniffer)
+53. **KeyGrabber Forensic Keylogger Module** (Bare Solderable In-Keyboard Board)
+54. **Hardware PS/2 Keylogger Classic** (Legacy Air-Gapped Terminal Interceptor)
+55. **USB Harvester Exfiltration Dongle** (Automated Bulk USB File Siphon)
+56. **BadType-C USB-C Covert Script Runner** (Stealth Form-Factor)
+57. **Screen Crab** (Hak5 In-Line HDMI Video Interceptor & Streamer)
+58. **MouseJiggler MJ-3** (Hardware USB Mouse Emulator Anti-Sleep Dongle)
+59. **Undetectable Mechanical Mouse Mover Pad** (Zero-Software Driverless Cradle)
+60. **Programmable Custom Macropad** (QMK/VIA Driven Physical Payload Macro)
+
+---
+
+### Category 3: Network Implants, Hardware Taps & MITM Devices (61 – 90)
+61. **Hak5 LAN Turtle** (Covert Systems Administration & Pentest Implant)
+62. **Hak5 LAN Turtle SD** (MicroSD Storage Enabled Covert Remote Gateway)
+63. **Hak5 Packet Squirrel** (Pocket Ethernet Multi-Tool & Sniffer)
+64. **Hak5 Plunder Bug** (Passive Fast Ethernet Tap with USB-C Monitoring)
+65. **Throwing Star LAN Tap** (Passive 10/100 Ethernet Sniffing Star)
+66. **Throwing Star LAN Tap Pro** (Gigabit Inline Passive Tap Architecture)
+67. **Dualcomm ETAP-1000** (Gigabit In-line Hardware Network Tap)
+68. **Dualcomm ETAP-2003** (USB-Powered Port-Mirroring Network Tap)
+69. **ProfiShark 1G** (Portable Hardware Network TAP & Packet Capture Tool)
+70. **ProfiShark 10G** (High-Speed Fiber/Copper 10GbE Packet Sniffer)
+71. **GL.iNet GL-MT300N-V2 (Mango)** (Mini Portable OpenWrt Pentest Router)
+72. **GL.iNet GL-AR750S (Slate)** (Gigabit Travel Router with WireGuard/OpenVPN)
+73. **GL.iNet GL-AXT1800 (Slate AX)** (Wi-Fi 6 Portable Hardened Security Router)
+74. **Hak5 Shark Jack** (Automated RJ45 Cable-Format Pentest Appliance)
+75. **Hak5 Shark Jack PoE** (Power-over-Ethernet Autonomous Network Probe)
+76. **Pwnagotchi Complete Kit** (Raspberry Pi Zero W + Waveshare e-Paper + Case)
+77. **RJ45 In-line Physical Isolator** (Surge & Network Segment Breaker)
+78. **Gigabit Ethernet Loopback Jack Plug** (Diagnostic Loopback Tester)
+79. **PoE Texas 802.3af/at Inline Tester** (Voltage & Current PoE Inspector)
+80. **Pockethernet Cable & Network Diagnostics Tool** (Smartphone Paired)
+81. **Netool.io NE1** (Automated Network Switchport Discovery & Mapping Tool)
+82. **Netool.io Pro** (Automated CLI Automation & VLAN Tagging Tool)
+83. **StarTech Portable USB Crash Cart Adapter** (Laptop-to-Server KVM Console)
+84. **Aten CV211 Laptop USB Crash Cart Adapter** (Hardware Direct Console Link)
+85. **Bastec Hardware Inline Ethernet Data Filter** (Physical Hardware Firewall)
+86. **RJ45 Lock-in Dust Proof Port Blocker Kit** (Physical Port Seal)
+87. **Physical RJ45 Cable Clip Blocker** (Tamper-Resistant Patch Lock)
+88. **Ethernet Splitter Passive Sniffer Adapter Cable**
+89. **Raspberry Pi 4 Model B Field Pentest Rig** (Armor Aluminum Enclosure)
+90. **Raspberry Pi Compute Module 4 Dual GbE Carrier Board** (Mini IDS Device)
+
+---
+
+### Category 4: RFID / NFC Cloners, Emulators & Physical Pentesting (91 – 120)
+91. **Proxmark3 RDV4.01** (Flagship Open-Source RFID/NFC Research Device)
+92. **Proxmark3 Easy 512K** (Budget Dual-Frequency Cloner & Emulator)
+93. **ChameleonUltra** (Dual-Frequency RFID/NFC Tag Emulator & Cracker)
+94. **ChameleonUltra DevKit** (Hardware Testing & Development Edition)
+95. **ChameleonTiny Pro** (Miniature Keyfob Tag Emulator & Reader)
+96. **Keysy RFID Duplicator** (Handheld 4-Slot Multi-Tag Remote Copier)
+97. **iCopy-X** (Automated Handheld Standalone RFID/NFC Cloning Machine)
+98. **ACR122U USB NFC Smart Card Reader/Writer** (ISO/IEC 18092 Standard)
+99. **PN532 NFC/RFID Controller Breakout Module** (V3 Kit with SPI/I2C/UART)
+100. **RC522 13.56MHz RFID Reader/Writer Module** (SPI Interface Kit)
+101. **Magic MIFARE Classic 1K Gen1a UID Changeable Card** (Backdoor Sector 0)
+102. **Magic MIFARE Classic 1K Gen2 CUID Direct-Write Card**
+103. **Magic MIFARE Ultralight C UID Changeable Tag**
+104. **Magic NTAG213 / NTAG215 / NTAG216 Rewritable Stickers Pack**
+105. **T5577 125kHz Rewritable EM4100 / HID Prox Key Fob**
+106. **EM4305 125kHz Dual Frequency Rewritable Token**
+107. **HID ProxCard II Handheld Cloner Tool**
+108. **RFID Blocking Signal Shield Card** (Wallet Jammer Card)
+109. **RFID Field Detector Keychain (125kHz Low Frequency)**
+110. **RFID Field Detector Keychain (13.56MHz High Frequency)**
+111. **M1 S50 UID Magic Smart Ring** (Wearable Dual RFID/NFC Token)
+112. **Dangerous Things xNT NFC Glass Bio-Implant Tag**
+113. **Dangerous Things xEM 125kHz RFID Glass Bio-Implant**
+114. **KSec Labs Proxmark High-Q Modular Antenna Pack**
+115. **Long-Range 13.56MHz RFID ISO15693 Industrial Reader Module**
+116. **UHF RFID Long-Range EPC Gen2 Reader/Writer Module**
+117. **UHF Alien H3 Gen2 RFID Windshield Adhesive Tags Pack**
+118. **Legic Prime & Advant Transponder Analyzer Sniffer**
+119. **NFC Contactless Payment Sniffer Antenna Coil**
+120. **Bluetooth Low Energy (BLE) Beacon Spoofer & Flooder Tag**
+
+---
+
+### Category 5: Physical Entry, Lockpicking & Bypass Tools (121 – 150)
+121. **Sparrows Tuxedo Lock Pick Set** (Tactical Stainless Steel Picks)
+122. **Sparrows Vorax Covert Entry Kit** (Comprehensive Lockpicking Kit)
+123. **SouthOrd PXS-14 Lock Pick Set** (Professional Textured Grip Picks)
+124. **Peterson Ghost Lock Pick Set** (Government Steel Slender Picks)
+125. **Multipick ELITE 17 Lock Pick Set** (German High-Precision Spring Steel)
+126. **Multipick Kronos Electric Lock Pick Gun** (Cordless E-Pick)
+127. **Klom Cordless Electric Lock Pick Gun** (Rechargeable Strike Gun)
+128. **Clear Acrylic Practice Padlock** (Transparent Cutaway Pin-Tumbler Lock)
+129. **Cutaway 5-Pin Rim Cylinder Practice Lock** (Spool & Serrated Pins)
+130. **Tubular Lock Pick Set (7-Pin / 7.5mm / 7.8mm)** (Adjustable Tension)
+131. **Disc Detainer Lock Pick** (Sputnik Style Front-Tensioning Tool)
+132. **Sparrows Hall Pass** (Credit Card Form-Factor Latch Slip Bypass)
+133. **Under-Door Camera Inspection Tool (UDT Tool)**
+134. **Under-the-Door Lever Handle Opening Tool** (Inverted Stainless Steel J-Hook)
+135. **Shove Knife** (Commercial Latch Bypass Tool)
+136. **Sparrows American Lock Bypass Driver Tool**
+137. **Master Lock 175 Combination Padlock Bypass Decoder**
+138. **Sparrows Quick Shim Padlock Shims Pack** (20-Piece Kit)
+139. **Sparrows Medeco Biaxial Cam / Decoder Pick**
+140. **Automotive Wave Key Jiggler Set** (Double-Sided Rocker Picks)
+141. **Lishi 2-in-1 KW1 Lock Pick & Decoder** (Kwikset Deadbolts)
+142. **Lishi 2-in-1 SC1 Lock Pick & Decoder** (Schlage 5-Pin Cylinders)
+143. **Lishi 2-in-1 HU66 Automotive Lock Pick** (VAG Group Vehicles)
+144. **Lishi 2-in-1 HON66 Automotive Decoder** (Honda Keyways)
+145. **Sparrows Nightcrawler Pocket Concealment Pick Set**
+146. **Covert Companion Multi-Tool** (Foldable EDC Lock Bypass Set)
+147. **Key Impressioning File Set & Vise Clamp Kit**
+148. **Bump Key Master Set** (KW1, SC1, Master M1 Profiles)
+149. **C4 Inflatable Air Wedge Hand Pump Door Spreader**
+150. **Thumbturn Bypass Tool for Mortise Cylinders**
+
+---
+
+### Category 6: Hardware Hacking, JTAG/UART/SPI Debuggers & EEPROM (151 – 180)
+151. **Bus Pirate v5** (Multi-Protocol Bus Probe: I2C, SPI, UART, 1-Wire)
+152. **Tigard** (FT2232H Multi-Protocol Hardware Reverse Engineering Board)
+153. **JTAGulator** (Automated JTAG / UART Pinout Discovery & Mapping Tool)
+154. **GreatFET One** (Hardware Hacking Companion & Glitcher Platform)
+155. **ChipWhisperer-Nano** (Side-Channel Power Analysis Research Board)
+156. **ChipWhisperer-Lite** (Hardware Fault Injection & Differential Power Analysis)
+157. **ChipSHOUTER** (Electromagnetic Fault Injection - EMFI Tool)
+158. **Glasgow Interface Explorer** (FPGA-Driven Hardware Reversing Tool)
+159. **FTDI FT232RL USB to TTL UART Serial Adapter Module**
+160. **CP2102 Micro USB to UART TTL 6-Pin Serial Converter**
+161. **CH341A 24 25 Series EEPROM / SPI BIOS Flash Programmer**
+162. **SOIC8 / SOP8 Flash Chip Test Clip** (In-Circuit In-Line Probe)
+163. **SOIC16 In-Circuit Test Clip for Flash EEPROM**
+164. **Pomona 5250 8-Pin SOIC Surface Mount Test Clip**
+165. **Saleae Logic 8** (USB 8-Channel High-Speed Logic Analyzer)
+166. **DSLogic Plus 16-Channel 400MHz Portable Logic Analyzer**
+167. **Budget 24MHz 8-Channel USB Logic Analyzer Dongle**
+168. **Mini DSO212 Pocket Handheld Digital Oscilloscope**
+169. **Miniware DS213 4-Channel 100MS/s Handheld Oscilloscope**
+170. **ST-Link V2 In-Circuit Debugger/Programmer** (for STM8/STM32)
+171. **J-Link EDU Mini** (Segger ARM Cortex Debug Probe)
+172. **Black Magic Probe** (ARM Cortex Debugger with Embedded GDB Server)
+173. **Atmel-ICE Full Kit** (AVR / SAM JTAG / SWD Hardware Programmer)
+174. **ChipQuik SMD Removal Low-Melting Temperature Alloy Kit**
+175. **TS101 Portable Smart Soldering Iron** (USB-C Power Delivery)
+176. **Pinecil V2 Smart Mini Portable Soldering Iron** (RISC-V Powered)
+177. **Micro SMD Grabber Test Hook Leads** (Pack of 10 Ultra-Fine Clips)
+178. **Pogo Pin Spring Test Probe Array Jig** (Bed of Nails Fixture)
+179. **USB Killer Pro Kit v4** (High-Voltage Surge Destruction Testing Tool)
+180. **USB Killer Shield** (Optocoupler High-Voltage Surge Protection Adapter)
+
+---
+
+### Category 7: Hardware Security Keys (FIDO2), HSMs & Encrypted Storage (181 – 210)
+181. **Yubico YubiKey 5 NFC** (USB-A Dual-Protocol FIDO2/U2F/OTP)
+182. **Yubico YubiKey 5C NFC** (USB-C Dual-Protocol Security Key)
+183. **Yubico YubiKey 5 Nano** (Compact Low-Profile USB-A Token)
+184. **Yubico YubiKey 5C Nano** (Flush-Mount USB-C Hardware Key)
+185. **Security Key NFC by Yubico** (FIDO2 / WebAuthn Only Key)
+186. **SoloKeys Solo 2** (Open-Source FIDO2 / NFC Reversible USB Key)
+187. **Nitrokey 3A NFC** (Open-Source FIDO2 & Passwordless Hardware Token)
+188. **Nitrokey 3C NFC** (USB-C Open-Hardware Security Key)
+189. **Nitrokey Pro 2** (PGP / OpenPGP Email Encryption & SSH Hardware Key)
+190. **Nitrokey Storage 2** (Encrypted MicroSD & Integrated Crypto Engine)
+191. **Nitrokey HSM 2** (SmartCard-Based USB Hardware Security Module)
+192. **Yubico YubiHSM 2** (Server-Side Hardware Security Module)
+193. **OnlyKey** (Hardware Password Manager & Two-Factor Authentication Token)
+194. **OnlyKey DUO** (Dual USB-A and USB-C Color Coded Key)
+195. **Feitian ePass K9** (USB-A FIDO2 WebAuthn Certified Security Key)
+196. **Feitian BioPass FIDO2** (Biometric Fingerprint Embedded Security Key)
+197. **Ledger Nano X** (Hardware Wallet with Secure Element EAL5+)
+198. **Trezor Safe 3** (Secure Element EAL6+ Protected Open-Source Crypto Key)
+199. **BitBox02 Multi Edition** (Dual-Chip Air-Gapped Verification Device)
+200. **Keystone 3 Pro** (Air-Gapped Optical QR-Code Hardware Wallet)
+201. **Apricorn Aegis Padlock 256-bit Encrypted Portable SSD** (Onboard PIN Pad)
+202. **Kingston IronKey D300S** (FIPS 140-2 Level 3 Encrypted Flash Drive)
+203. **Kingston IronKey Keypad 200** (Hardware Alphanumeric Keypad USB)
+204. **iStorage diskAshur2 Encrypted Portable Hard Drive**
+205. **iStorage datAshur PRO2** (FIPS 140-3 Level 3 Hardware Encrypted USB)
+206. **datAshur BT** (Hardware Encrypted Bluetooth Low-Energy Flash Drive)
+207. **Kanguru Defender 3000** (FIPS 140-2 Level 3 Secure AES-256 Drive)
+208. **SECUSTOR Biometric Fingerprint Hardware Encrypted SSD**
+209. **Cryptosteel Capsule** (Indestructible Solid Stainless Steel Recovery Backup)
+210. **Billfodl Titanium Seed Storage Cold Wallet Vault**
+
+---
+
+### Category 8: Digital Forensics, Write Blockers & Faraday Isolation (211 – 240)
+211. **Tableau T8u Forensic USB 3.0 Bridge** (Hardware Write Blocker)
+212. **Tableau T35u Forensic IDE/SATA Bridge Write Blocker**
+213. **Tableau T7u Forensic PCIe Bridge** (M.2 NVMe Write Blocker)
+214. **WiebeTech UltraDock v5.5** (Multi-Port Hardware Write Blocker)
+215. **WiebeTech Forensic ComboDock v5.5** (Dual-Mode Drive Copier/Blocker)
+216. **CRU WiebeTech Drive eRazer Ultra** (Standalone Hardware Drive Sanitizer)
+217. **StarTech Standalone 1-to-1 Hard Drive Eraser Dock** (DoD Wipe Compliant)
+218. **Atola TaskForce Forensic Imager** (High-Speed Multi-Drive Engine)
+219. **Logicube Forensic Falcon-NEO Duplicator Platform**
+220. **Mission Darkness Non-Window Faraday Bag for Mobile Phones**
+221. **Mission Darkness Dry Shield Faraday Backpack 40L** (EMP/RF Shielded)
+222. **Mission Darkness TitanRF Conductive Faraday Shielding Tape**
+223. **Mission Darkness TitanRF Faraday Fabric Yard** (RF Attenuation Fabric)
+224. **Silent Pocket Faraday Sleeve for Laptops**
+225. **GoDark Faraday Bag for Cell Phones & GPS Trackers**
+226. **OffGrid by EDEC Mobile Shielding Faraday Pouch**
+227. **Disklabs LB2 Forensic Laptop Shield Faraday Bag**
+228. **Ramsey Electronics STE3000F2 RF Shielded Test Enclosure Box**
+229. **Hardware Data Blocker USB-A** (Juice-Jacking Prevention Adapter)
+230. **Hardware Data Blocker USB-C** (Power-Only Fast Charging Dongle)
+231. **PortaPow 3rd Gen Premium Data Blocker with SmartCharge Chip**
+232. **Smart In-Line USB Power Meter & Voltmeter Tester**
+233. **Kanguru Mobile Clone Standalone Drive Duplicator**
+234. **U-Reach Carry-1 HDD/SSD Sanitizer & Duplicator Unit**
+235. **MediaClone SuperImager Plus 8-Port NVMe Forensic Unit**
+236. **Garner TS-1 Hard Drive Degausser** (NSA Evaluated Magnetic Eraser)
+237. **Garner PD-5 Physical Hard Drive Bending Destroyer**
+238. **Solid-State Drive Physical Memory Chip Crusher Press**
+239. **Forensic SIM Card Reader & Micro-SIM Extraction Adapter Set**
+240. **JTAG/Chip-Off Forensic Desoldering Socket Probe Station**
+
+---
+
+### Category 9: Surveillance Countermeasures (TSCM) & Bug Detectors (241 – 270)
+241. **REI OSCOR Green 24GHz Spectrum Analyzer** (Flagship TSCM Receiver)
+242. **REI ORION 2.4 Non-Linear Junction Detector (NLJD)** (Silicon Detector)
+243. **REI ANDRE Deluxe Near-Field Detection Receiver**
+244. **KJB Security DD1206 Professional Digital RF Bug Detector**
+245. **Protect 1207i Multi-Channel Wireless RF Signal Detector**
+246. **BugHunter Professional BH-03 Expert RF Sweeper**
+247. **SpyFinder Pro Hidden Camera Optical Lens Viewfinder**
+248. **Laser Hidden Lens Finder with Red LED Strobe Array**
+249. **Magnetic Field & RF Hidden Device Multi-Sensor Scanner**
+250. **Acoustic Audio White Noise Generator** (Eavesdropping Jammer)
+251. **DNG-2300 Digital White Noise Generator with Window Transducers**
+252. **Rabbler MNG-300 Portable Ultrasonic Speech Audio Masker**
+253. **Directional Ultrasonic Microphone Jammer** (Transducer Array)
+254. **Infrared Night-Vision Security Camera Detection Sensor Card**
+255. **FLIR ONE Pro Thermal Imaging Camera Attachment (USB-C)**
+256. **Seek Thermal CompactPRO High-Resolution Thermal Imager**
+257. **InfiRay T2 Pro Thermal Camera for Hidden Device Heat Tracing**
+258. **Contact Microphone Window Vibration Sensor** (Acoustic Eavesdropping Detector)
+259. **Dual-Lens Articulating Borescope Inspection Camera**
+260. **Tamper-Evident Security Seal Labels** (Numbered "VOID" Residue Tape)
+261. **Holographic Destructible Tamper-Proof Stickers**
+262. **Precision Metal Laptop Webcam Cover Slide**
+263. **Mic-Lock 3.5mm Audio Jack Microphone Blocker**
+264. **Mic-Lock USB-C Hardware Audio Blocker**
+265. **Mic-Lock Lightning Port Microphone Silencer**
+266. **PrivaScreen Magnetic Privacy Filter for Laptops**
+267. **3M Black Privacy Screen Filter for Desktop Monitors**
+268. **Anti-Spying Polarized Glass Goggles** (Screen Obfuscation Glasses)
+269. **Anti-Skimming ATM/POS Keypad Privacy Visor Shield**
+270. **Fiber-Optic Micro-Borescope for Wall & HVAC Surveillance Sweep**
+
+---
+
+### Category 10: Enterprise Micro-Firewalls, Hardware Isolators & Security Appliances (271 – 300)
+271. **Protectli Vault FW4B** (4-Port Fanless Mini PC for pfSense/OPNsense)
+272. **Protectli Vault VP4670** (6-Port 2.5GbE Intel Core i7 Micro Firewall Appliance)
+273. **Netgate 1100 pfSense Security Gateway**
+274. **Netgate 2100 pfSense Desktop Security Gateway**
+275. **Netgate 6100 pfSense Enterprise Appliance** (Dual 10GbE SFP+)
+276. **PC Engines APU2E4 Embedded Network Security Board**
+277. **Firewalla Gold Plus** (2.5GbE Multi-Gigabit Cyber Security Hardware Firewall)
+278. **Firewalla Purple SE** (Gigabit Cyber Security Appliance with Active IDS/IPS)
+279. **Ubiquiti UniFi Dream Machine Special Edition (UDM-SE)**
+280. **Ubiquiti UniFi Gateway Max (UXG-Max)** (Compact 2.5G Security Gateway)
+281. **Fortinet FortiGate 40F Desktop Next-Gen Firewall**
+282. **Fortinet FortiGate 60F Enterprise Branch UTM Firewall**
+283. **SonicWall TZ270 High-Performance UTM Firewall Appliance**
+284. **Sophos XGS 87 Desktop Next-Gen Firewall**
+285. **WatchGuard Firebox T25 Unified Threat Management Appliance**
+286. **MikroTik hEX S** (Gigabit Router with Hardware IPsec Encryption Engine)
+287. **MikroTik RB5009UG+S+IN** (Heavy-Duty Lab & Security Appliance)
+288. **Advenica SecuriCDS Data Diode** (Hardware Unidirectional Network Gateway)
+289. **Owl Cyber Defense Diode Hardware Data Isolator**
+290. **Fox-IT Data Diode 1G Optical Hardware Isolator**
+291. **BBN SafeNet Hardware True Random Number Generator (TRNG USB)**
+292. **OneRNG Hardware Random Number Generator** (Open Hardware TRNG)
+293. **Simtec Electronics EntropyKey USB TRNG**
+294. **RedPitaya STEMlab 125-14 Diagnostic & Signal Security Board**
+295. **TinySDR Compact FPGA Network Monitoring Transceiver**
+296. **Opengear Net-O-Matic CM7100 Out-of-Band Console Server**
+297. **Perle IOLAN SCG Secure Console Server with Hardware TPM 2.0**
+298. **WTI DSM-8 Secure Port Console Switch with Dual Power Inputs**
+299. **Tripp Lite 1U Rackmount Surge Protector with Circuit Breaker**
+300. **CyberPower OR500LCDRM1U Smart App Sinewave Rackmount UPS Unit**
+
+---
+
